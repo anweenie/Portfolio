@@ -1,0 +1,21 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-family: georgia
+}
+
+h2 {
+    color: black;
+    text-align: center;
+    font-family: georgia;
+}
+
+p {
+    font-family: 'Merriweather',Georgia, serif;
+        font-size: 20px;
+    font-weight: 400;
+}
